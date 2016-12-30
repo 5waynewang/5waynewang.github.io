@@ -1,6 +1,6 @@
 ## MQ
 
-### [如何设计一款MQ？](http://clhk.cn/sharing/MQ/design/index.html)
+### [如何设计一款MQ？ (PPT)](http://clhk.cn/sharing/MQ/design/index.html)
 
 ## SSL
 
@@ -8,4 +8,4 @@
 
 ## Bean Validation
 
-### [详解Bean Validation](http://clhk.cn/sharing/BeanValidation/analyze/index.html)
+### [详解Bean Validation (PPT)](http://clhk.cn/sharing/BeanValidation/analyze/index.html)

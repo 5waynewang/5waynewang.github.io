@@ -5,3 +5,7 @@
 ## SSL
 
 ### [使用openssl生成SSL证书](http://note.youdao.com/noteshare?id=3444cde0da33feb209034771eac7aa14)
+
+## Bean Validation
+
+### [详解Bean Validation](http://clhk.cn/sharing/BeanValidation/analyze/index.html)

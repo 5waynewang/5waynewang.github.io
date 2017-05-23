@@ -1,8 +1,11 @@
-title: roadmap
-description: an old coder
+title: 默默的伟哥
+description: 老码农的mark
 google_analytics: 
 show_downloads: true
 theme: jekyll-theme-minimal
+locale: "zh-CN"
+url: "http://aiyd.me"
+
 
 gems:
   - jekyll-mentions

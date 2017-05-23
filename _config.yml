@@ -1,5 +1,5 @@
 title: 默默的伟哥
-description: 老码农的mark
+description: 老司机的日记
 google_analytics: 
 show_downloads: true
 theme: jekyll-theme-minimal
@@ -7,8 +7,8 @@ locale: "zh-CN"
 url: "http://aiyd.me"
 
 author:
-  name   : "默默的伟哥"
-  avatar : "/assets/images/bio-photo.jpg"
+  name: "默默的伟哥"
+  avatar: "/assets/images/bio-photo.jpg"
 
 gems:
   - jekyll-mentions

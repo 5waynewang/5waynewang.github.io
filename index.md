@@ -9,3 +9,8 @@
 ## Bean Validation
 
 ### [详解Bean Validation (PPT)](http://aiyd.me/sharing/BeanValidation/analyze/index.html)
+
+
+## core java
+
+### [java集合的坑](http://note.youdao.com/noteshare?id=5e4f339d2fc100e53d5035760aebe5f0&sub=6FA56FE682894FE297252F1192344FCC)

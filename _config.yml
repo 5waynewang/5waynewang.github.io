@@ -6,6 +6,9 @@ theme: jekyll-theme-minimal
 locale: "zh-CN"
 url: "http://aiyd.me"
 
+author:
+  name   : "默默的伟哥"
+  avatar : "/assets/images/bio-photo.jpg"
 
 gems:
   - jekyll-mentions

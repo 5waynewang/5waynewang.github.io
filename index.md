@@ -1,6 +1,6 @@
 ## MQ
 
-### [如何设计一款MQ？ (PPT)](http://aiyd.me/sharing/MQ/design/index.html)
+### [如何设计一款MQ？ (PPT)](http://github.aifaq.me/sharing/MQ/design/index.html)
 
 ## SSL
 
@@ -8,7 +8,7 @@
 
 ## Bean Validation
 
-### [详解Bean Validation (PPT)](http://aiyd.me/sharing/BeanValidation/analyze/index.html)
+### [详解Bean Validation (PPT)](http://github.aifaq.me/sharing/BeanValidation/analyze/index.html)
 
 
 ## core java
